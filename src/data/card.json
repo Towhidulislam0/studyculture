@@ -1,0 +1,74 @@
+[
+    {
+        "img": "course-1.jpg",
+        "cardTitle": "The business Intelligence analyst Course 2022",
+        "cardDescription": "",
+        "price": "$43",
+        "rating": "4.5",
+        "ratingCount": "42",
+        "lesson": "43"
+    },
+    {
+        "img": "course-2.jpg",
+        "cardTitle": "The computer science Course 2022",
+        "cardDescription": "",
+        "price": "$30",
+        "rating": "4.7",
+        "ratingCount": "47",
+        "lesson": "40"
+    },
+    {
+        "img": "course-3.jpg",
+        "cardTitle": "The agriculture study Course 2022",
+        "cardDescription": "",
+        "price": "Free",
+        "rating": "4.3",
+        "ratingCount": "32",
+        "lesson": "41"
+    },
+    {
+        "img": "course-4.jpg",
+        "cardTitle": "The mechanical Course 2022",
+        "cardDescription": "",
+        "price": "$20",
+        "rating": "4.8",
+        "ratingCount": "47",
+        "lesson": "47"
+    },
+    {
+        "img": "course-5.jpg",
+        "cardTitle": "The art and culture Course 2022",
+        "cardDescription": "",
+        "price": "34",
+        "rating": "3.8",
+        "ratingCount": "52",
+        "lesson": "39"
+    },
+    {
+        "img": "course-6.jpg",
+        "cardTitle": "The tax and audit Course 2022",
+        "cardDescription": "",
+        "price": "$30",
+        "rating": "4.7",
+        "ratingCount": "72",
+        "lesson": "50"
+    },
+    {
+        "img": "course-7.jpg",
+        "cardTitle": "The chemical and pharmacy Course 2022",
+        "cardDescription": "",
+        "price": "55",
+        "rating": "4.6",
+        "ratingCount": "22",
+        "lesson": "43"
+    },
+    {
+        "img": "course-8.jpg",
+        "cardTitle": "The anthropology Course 2022",
+        "cardDescription": "",
+        "price": "$23",
+        "rating": "4.3",
+        "ratingCount": "40",
+        "lesson": "20"
+    }
+]
